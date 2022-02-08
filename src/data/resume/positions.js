@@ -6,7 +6,7 @@ const positions = [
     daterange: 'May 2021 - July 2021',
     points: [
       'Design and develop this new PrivateLink feature, implement it with 1000+LOC in Java,',
-      'conduct comprehensive unit-test, run end-to-end test in production environment.',
+      'Conduct comprehensive unit-test, run end-to-end test in production environment.',
       'Tools/Skills: GitFarm, AWS CLI, AWS VPC/EC2/S3/Route53, Java OOP.',
     ],
   },

@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Yudan. I like building things.
         I am a graduate student at <a href="https://www.usfca.edu/">University of San Francisco</a>. Before joining USF
-        , I worked for a real state company as a accountant.
+        , I worked for a real estate company as a accountant.
         I got to know computer science and decided to quit my job
         , come to US, start my new chapter here.
       </p>
