@@ -9,15 +9,14 @@ const Index = () => (
     + 'Software Engineer.'}
   >
     <article className="post" id="index">
-      {/* <header>
+      <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            This is Yudan;&apos;s personal site.
           </p>
         </div>
-      </header> */}
+      </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
