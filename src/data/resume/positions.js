@@ -13,7 +13,7 @@ const positions = [
   {
     company: 'Guangzhou Fengtai Hechuang Industrial Investment Co.',
     position: 'Finance Analyst',
-    // link: 'http://skepticalinvestments.biz',
+    link: 'http://skepticalinvestments.biz',
     daterange: 'July 2013 - July 2016',
     points: [
       'Work on collecting, analyzing, and interpreting financial data for the company’s real estate investment(over $100 millions).',
